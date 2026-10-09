@@ -1,13 +1,13 @@
 {
-  "originHash" : "8d4d1e1f45aca658adc8283df1f4701c95c1cf238e78aa712d7643e0c1c862ea",
+  "originHash" : "96cdb35789d14a404382e416861528eed4c7b1cac31cf57087ace4552230a447",
   "pins" : [
     {
       "identity" : "axorcist",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/openclaw/AXorcist.git",
       "state" : {
-        "revision" : "37d7ae82ff1443b4b36344ca6f3bf0ad33f13b12",
-        "version" : "0.1.9"
+        "revision" : "31732870e1fd758247418db9239256d2da497146",
+        "version" : "0.1.11"
       }
     },
     {
@@ -51,8 +51,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/openclaw/Peekaboo.git",
       "state" : {
-        "revision" : "d82dbd88832688252cbed2254af6433ed9699abd",
-        "version" : "4.4.0"
+        "revision" : "4d43dc9d80cd2aa3787a27f54b76d692db1dcf8f",
+        "version" : "4.8.0"
       }
     },
     {
@@ -96,8 +96,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-log.git",
       "state" : {
-        "revision" : "9c6fb14227f55d8f711ce3847dc2f419fb0ecacb",
-        "version" : "1.15.1"
+        "revision" : "109c380c2371099eea84742cf9e6b73f3436105e",
+        "version" : "1.16.0"
       }
     },
     {
